@@ -1,0 +1,16 @@
+# GITIGNORE
+
+*.launch
+*.dwf3work
+
+# MCU settings
+# .cproject
+
+# Directories
+# .settings/
+.vscode/
+Debug/
+
+# Virtual environment
+.venv/
+requirements.txt
